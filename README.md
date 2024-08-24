@@ -6,6 +6,7 @@ Clone the Repo
 # Run The Comannds 
 
 cd k8s-basic-deployment
+
 kubectl apply -f mongo-config.yaml
 
 kubectl apply -f mongo-secret.yaml
